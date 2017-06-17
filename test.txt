@@ -2,4 +2,5 @@ def t1(q):
    pass
 
 def t2(w):
+   print('11')
    pass
